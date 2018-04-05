@@ -1,2 +1,3 @@
-# sw_glow_lamp
-Glow lamp
+# Glow lamp
+
+XMOS Microphone Array board with Neopixel RGB LEDs
